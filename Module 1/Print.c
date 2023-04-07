@@ -2,7 +2,8 @@
 #include<stdio.h>
 int main ()
 {
-    printf ("Hello world\t\tNew line 2");
+    printf ("Hello\t\tNew line 2");
+
 
     return 0;
 }

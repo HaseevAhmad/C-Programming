@@ -8,5 +8,6 @@ int main ()
     double a=2006.5258456568359;
     printf ("%lf",a);
 
+
     return 0;
 }
