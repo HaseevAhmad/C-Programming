@@ -1,17 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int tk;
-    scanf("%d",&tk);
-    if (tk == 100)
-    {
-        printf("Yes");
-    }
-    else
-    {
-        printf("No");
-
-    }
-
+    int k;
+    for (k = -3; k < -5; k++)
+        printf("Hello ");
     return 0;
 }
